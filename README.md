@@ -1,27 +1,66 @@
-# 💫 About Me:
-Hi, I'm Sanal! I'm diving deep into technologies like Python, Java, C#, and NodeJS. <br>My main goal is to build out my portfolio with new projects and hopefully join some exciting development teams. <br>On a lighter note, I'm a big fan of pixel art and indie games!
+# Hi, I'm Sanal 👋
 
+I'm a backend-focused developer currently deepening my knowledge in **Java and Spring Boot**, with a strong interest in **software architecture, clean code, and domain modeling**.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onuzt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomaz.t_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanal-da-silva) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sanaltomaz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lonlyFar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomazsanal@gmail.com) 
+I’m not chasing buzzwords.  
+I’m focused on understanding how systems are structured, how responsibilities are divided, and how code evolves over time.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanaltomaz&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanaltomaz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaltomaz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanaltomaz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanaltomaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+Right now, my main goal is to build **solid backend projects**, applying best practices step by step while progressing through structured courses and personal refactorings.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanaltomaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Current Focus
+
+- Backend development with **Java & Spring Boot**
+- Clean architecture and layered design
+- Integration with external APIs
+- Data modeling and persistence with **JPA**
+- Writing code that is readable, maintainable, and intentional
+
+---
+
+## 🛠️ Tech Stack (in practice)
+
+**Languages**
+- Java
+- JavaScript (basic backend usage)
+
+**Backend & Frameworks**
+- Spring Boot
+- Spring Data JPA
+- Maven
+
+**Databases**
+- PostgreSQL (learning & practice)
+
+**Tools**
+- Git & GitHub
+- VS Code IDEA
+- Linux environment
+
+---
+
+## 🌱 Learning Philosophy
+
+I believe that:
+- Understanding *why* matters more than copying *how*
+- Refactoring is part of learning, not a failure
+- Simple code with clear responsibilities beats clever code
+
+Most of my repositories represent **learning in progress**, with visible evolution and refactors.
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: https://linkedin.com/in/sanal-da-silva  
+- Email: tomazsanal@gmail.com  
+
+(Discord and social networks are kept private on purpose.)
+
+---
+
+## 📌 Notes
+
+This profile reflects my **current stage**, not a final destination.  
+Expect repositories to evolve as I progress through backend, persistence, and API design topics.
